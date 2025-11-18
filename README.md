@@ -1,4 +1,4 @@
-Hệ thống cảnh báo thời tiết được thiết kế để kết nối với các dịch vụ dự báo thời tiết, cung cấp thông tin thời tiết theo thời gian thực cũng như dự báo chính xác cho người dùng. Hệ thống này không chỉ cảnh báo về các hiện tượng thời tiết xấu như mưa lớn, bão, hay nhiệt độ cực đoan, mà còn gợi ý các biện pháp bảo vệ cho cây trồng và tài sản trước những điều kiện thời tiết khắc nghiệt
+Hệ thống cảnh báo thời tiết được thiết kế để kết nối với các dịch vụ dự báo thời tiết, cung cấp thông tin thời tiết theo thời gian thực cũng như dự báo chính xác cho người dùng. Hệ thống này không chỉ cảnh báo về các hiện tượng thời tiết xấu như mưa lớn, bão, hay nhiệt độ cực đoan, mà còn gợi ý các biện pháp bảo vệ cho cây trồng và tài sản trước những điều kiện thời tiết khắc nghiệt.
 
 
 Nguyên lý hoạt động và mô phỏng:
